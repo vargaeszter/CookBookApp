@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">CookBook</string>
+
+    <string name="category_name_cake">cake</string>
+    <string name="category_name_beverage">beverage</string>
+    <string name="category_name_coffee">coffee</string>
+    <string name="category_name_cocktail">cocktail</string>
+    <string name="category_name_snack">snack</string>
+    <string name="category_name_none">none</string>
+
+    <string name="dialog_ok_button_text">Ok</string>
+    <string name="dialog_dismiss_button_text">Close</string>
+    <string name="textfield_label_title">Title</string>
+    <string name="textfield_label_description">Description</string>
+    <string name="textfield_label_ingredients">Ingredients</string>
+
+    <string name="list_item_supporting_text">Created: %1$s</string>
+
+    <string name="text_empty_recipe_list">You haven\'t added any recipes yet.</string>
+    <string name="text_null_recipe_list">Null response</string>
+    <string name="text_your_recipe_list">Your recipes</string>
+    <string name="text_shopping_list">Shopping list</string>
+
+
+    <string name="app_bar_title_edit_recipe">Edit recipe</string>
+    <string name="app_bar_title_create_recipe">Create recipe</string>
+    <string name="app_bar_title_edit_todo">Edit todo</string>
+
+    <string name="some_error_message">Error</string>
+
+</resources>
