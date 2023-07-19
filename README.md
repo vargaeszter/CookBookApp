@@ -68,7 +68,3 @@ Például:
 - Implicit intent használata **QR kód beolvasáshoz** (telepített Barcode Scanner alkalmazás szükséges a futtatásához)
 - A játék fizikáját a [Box2D](https://box2d.org/) motor biztosítja
 - **Service** használata zenelejátszáshoz
-
-## Fontosabb technológiai megoldások
-
-**A számodra legnehezebb/legérdekesebb funkciót fejtsd ki kb.  10 mondatban, hogy mi volt a probléma és hogyan oldottad meg.**
