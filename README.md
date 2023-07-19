@@ -2,7 +2,7 @@
 
 ## Androidalapú szoftverfejlesztés
 ### 2023.04.30. - 2023 1. félév
-### Varga Eszter Anna
+### Varga Eszter
 
 ### CookBook
 
